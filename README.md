@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://profoj.github.io/img/profoj.png" alt="ionic" width="60" height="60"/>  
+  <img src=" https://avatars.githubusercontent.com/u/111642961?v=4&size=64" alt="ionic" width="60" height="60"/>  
+ 
 </p>
 <h2 align="center">
 Hi There 👋
