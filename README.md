@@ -5,11 +5,11 @@
 Hi There 👋
 </h2>
 <h1 align="center">
-I am Joshua Odoi (ProfOJ)
+I am Irene Okine
 </h1>
 
 <h3 align="center">
-Techpreneur , Fullstack Developer , Product Developer and Mentor
+Founder , Developer , Project Manager and Leader
 </h3>
 
  
