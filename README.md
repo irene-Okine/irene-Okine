@@ -20,23 +20,22 @@ Founder , Developer , Project Manager and Leader
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/87319921/131159622-703987cf-80fc-4342-a74b-0cb957a2d58b.png" width="50" height="50"> 
-<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="ionic" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="ionic" width="60" height="60"/>  
+  
 </p>
 <p align="center">
   
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="ionic" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ionic" width="60" height="40"/>
-  <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40"/>
+  width="40" height="40"/>
   <!-- <img src="https://user-images.githubusercontent.com/87319921/131159583-60be0f3d-d25f-463f-a632-75f8f37417d1.png" width="50" height="50">-->
-  <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
+ 
   
   
   
 </p>  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" width="40" height="40"/>
+ 
   <!-- <img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="codepen" width="60" height="40"/>-->
  </p>  
   
@@ -44,8 +43,8 @@ Founder , Developer , Project Manager and Leader
  <b>Let's Connect 📫</b>
  <br><br>
 <a href="https://www.linkedin.com/in/profoj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:odoijoshua55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://twitter.com/profoj_"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:okineirene013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://twitter.com/Ofo_ley"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 
