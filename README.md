@@ -43,15 +43,15 @@ Founder , Developer , Project Manager and Leader
 <p align= "center">
  <b>Let's Connect 📫</b>
  <br><br>
-<a href="https://www.linkedin.com/in/profoj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="www.linkedin.com/in/irene-okine-90a135231"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:okineirene013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://twitter.com/Ofo_ley"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProfOJ&show_icons=true&theme=tokyonight" alt="ProfOJ GitHub stats"><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ProfOJ&show_icons=true&theme=tokyonight" alt="ProfOJ GitHub stats"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfOJ&layout=compact&theme=tokyonight" alt="ProfOJ Top Languages"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ProfOJ&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="ProfOJ Github Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ProfOJ&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="ProfOJ Github Streak"> -->
  
  
  
